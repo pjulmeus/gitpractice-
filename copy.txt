@@ -1,0 +1,25 @@
+Part 1
+1. mkdir first
+2. cd first
+3. touch person.txt
+4. mv person.txt another.txt
+5. cp another.txt copy.txt
+6. rm copy.txt
+7. cp -r first second
+8. rm -rf second
+
+Part 2
+1) Man helps you learn all the flags and different thing you can run with each terminal command.
+2) I got out of the man set up by pressing q to quit the command.
+3) Option/Alt + left/right (jump between words)
+4)Command/Control + e (move to end of line)
+5) control + a
+6) option + delete
+7) A terminal refers to a wrapper program which runs a shell. The shell is the program which actually
+processes commands and returns output.
+8) Relative - cd Desktop - relative to where I am currently
+9)Absolute- cd /Users/colt/Desktop - absolute, starting from the root (first /, then Users, then
+colt, then Desktop)
+10) Flags can change and even enhance commands and are added using a - after the command. -a flag to list “all” files (including hidden files and folders). command to give us more information
+about each file, we can pass in the -l flag.
+11) -r remove directories and their contents recursively, -f  ignore nonexistent files and arguments, never prompt.
